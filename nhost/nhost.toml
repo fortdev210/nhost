@@ -1,0 +1,4 @@
+[[ports]]
+port = 5000
+type = 'http'
+publish = true
